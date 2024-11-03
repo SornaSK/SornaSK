@@ -4,7 +4,7 @@ from collections import Counter
 
 # GitHub username and token
 username = 'SornaSK'
-token = 'YourGitHubToken'  # Store securely in GitHub Secrets
+token = ''  # Store securely in GitHub Secrets
 
 # Fetch repositories data
 response = requests.get(
