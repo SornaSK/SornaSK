@@ -1,34 +1,53 @@
-# Hi there, I'm [Sornakala S] 👋
+# Hello, I'm Sornakala S 👋
 
 ### 🌟 About Me
-I'm a passionate **[Web developer, Engineering Student, MERN Stack Enthusiast]** with experience in building engaging web applications and expertise in **HTML, CSSS, JavaScript, React**. I'm constantly learning and exploring new technologies to enhance my skills.
+I am a Final-year Computer Science and Engineering student with expertise in web design, project management, and leadership. Skilled in HTML, CSS, and Bootstrap, JavaScript with experience in developing responsive web applications. Accomplished blogger and content creator with a focus on poster design and content delivery. Known for a strong commitment to academic excellence, maintaining a 8.2 CGPA, and a well-rounded professional profile. Actively seeking opportunities to leverage technical skills and innovative thinking in dynamic projects.
 
-### 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+## 👨‍💻 Technical Skills
+
+<p align="center">
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <!-- Python Tkinter -->
+  <img src="https://img.shields.io/badge/Python-Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Tkinter GUI">
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## 🌟 Soft Skills
+
+- **Blogging** 📖
+- **Content Creation** 🎨
+- **Poster Design** 🖼️
+- **Leadership** 🌟
+- **Effective Communication** 💬
 
 ### 💼 Featured Projects
-- **[Project 1: Tkinter](link)**  
-  A brief description of what this project does and the technologies used.
-  
-- **[Project 2: Profile Card](link)**  
-  Another description highlighting the main features and tech stack.
+Some of my recent projects:
+- **[Project 2: Profile Card](https://github.com/SornaSK/Profile-Card)**  
+This project features a stylish and responsive profile card especially for PC window as well as mobile screen - created using HTML, CSS, and Bootstrap. The card is designed to showcase the identity.
+- **[Project 1: Tkinter](https://github.com/SornaSK/Tkinter-project)**  
+The Tkinter Restaurant Bill Calculation project is a user-friendly desktop application for streamlined billing, featuring a visually appealing interface with well-placed frames, labels, and entry fields. It combines graphical elements with efficient logic for accurate, easy bill computation.
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SornaSK&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sornakala-s/)
-
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SornaSK&layout=compact&theme=radical)
 
 ### 💬 Fun Facts
-- 🌱 I’m currently learning .
-- 📫 How to reach me: [sornakalas2004@gmail.com]
+🌱 I’m currently learning the MERN Stack and applying my knowledge through hands-on projects.
+✍️ I enjoy sharing technical insights with the LinkedIn community through continuous blogging.
+📫 Feel free to reach out via email: sornakalas2004@gmail.com
+
+### 🌐 Connect with Me
+Feel free to reach out or connect with me on[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sornakala S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sornakala-s/).
+
+---
