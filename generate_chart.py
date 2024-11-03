@@ -1,10 +1,13 @@
+import os
 import matplotlib.pyplot as plt
 import requests
 from collections import Counter
 
-# GitHub username and token
+# GitHub username
 username = 'SornaSK'
-token = ''  # Store securely in GitHub Secrets
+
+# Fetch token from environment variable
+token = os.getenv('MY_GITHUB_TOKEN')  # Replace with your secret name
 
 # Fetch repositories data
 response = requests.get(
