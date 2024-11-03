@@ -23,7 +23,6 @@ I am a Final-year Computer Science and Engineering student with expertise in web
 </p>
 
 ## 🌟 Soft Skills
-
 - **Blogging** 📖
 - **Content Creation** 🎨
 - **Poster Design** 🖼️
@@ -43,11 +42,10 @@ The Tkinter Restaurant Bill Calculation project is a user-friendly desktop appli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SornaSK&layout=compact&theme=radical)
 
 ### 💬 Fun Facts
-🌱 I’m currently learning the MERN Stack and applying my knowledge through hands-on projects.
-✍️ I enjoy sharing technical insights with the LinkedIn community through continuous blogging.
-📫 Feel free to reach out via email: sornakalas2004@gmail.com
+- 🌱 I’m currently learning the MERN Stack and applying my knowledge through hands-on projects.
+- ✍️ I enjoy sharing technical insights with the LinkedIn community through continuous blogging.
 
 ### 🌐 Connect with Me
-Feel free to reach out or connect with me on[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sornakala S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sornakala-s/).
-
+- Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sornakala-s/).
+- 📫 Feel free to reach out via email: sornakalas2004@gmail.com
 ---
